@@ -31,9 +31,12 @@ body{
 }
 
 #SvetlanaU{
-   background-color: initial;
-   font-family: initial;
-   color:initial;
+   background-color: #333333;
+   font-family: Arial, sans-serif;
+   color: #ffffff;
+   padding: 20px;
+   border-radius: 8px; 
+   text-align: left;
    
 
 }
